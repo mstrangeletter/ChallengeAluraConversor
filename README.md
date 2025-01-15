@@ -58,10 +58,8 @@ Este proyecto utiliza la API de [Exchange Rate](https://www.exchangerate-api.com
 
 Las contribuciones son bienvenidas. Siéntete libre de enviar un Pull Request o reportar problemas en la sección de Issues.
 
-## Licencia
+## Finalidad
 
-Este proyecto está licenciado bajo la MIT License. Para más detalles, consulta el archivo `LICENSE`.
+Este proyecto no tiene licencia, es un proyecto académico para completar primer Challenge de Back End Java en Oracle, práctica necesaria para entender y aplicar el consumo de APIs, manejo de arreglos y JSON.
 
-## Contacto
 
-Para cualquier consulta o sugerencia, por favor contacta a [tu-email@example.com].
