@@ -49,7 +49,6 @@ Este es un proyecto de consola desarrollado en Java que permite convertir entre 
 - `src/main/java/com/alura/convertcurrency`
   - `MenuConvertCurrency.java`: Clase principal que muestra el menú y maneja la interacción con el usuario.
   - `HandlerConvertCurrency.java`: Clase que se encarga de realizar las conversiones de moneda utilizando la API.
-- `pom.xml`: Archivo de configuración de Maven que incluye las dependencias necesarias.
 
 ## API Utilizada
 
